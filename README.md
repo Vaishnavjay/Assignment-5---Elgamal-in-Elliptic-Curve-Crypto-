@@ -14,7 +14,7 @@ The executable (.exe) can be downloaded and directly run on a Windows machine.
 Sample program snapshots are shown below.
 
 Input:
-![image](https://user-images.githubusercontent.com/17180872/143911359-80c29761-694d-4580-92f1-b6b7cdaac9aa.png)
+![image](https://user-images.githubusercontent.com/17180872/143911935-6401ba81-3b61-491e-81a5-61adb6940fec.png)
 
 Encyption:
 ![image](https://user-images.githubusercontent.com/17180872/143911592-c2290d1d-8b3c-4de2-9676-84d769fa70fc.png)
