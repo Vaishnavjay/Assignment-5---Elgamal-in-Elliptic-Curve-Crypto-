@@ -4,20 +4,25 @@ Name - Vaishnav J
 Roll number - EE20M544  
 Email - vaishnavjrm@gmail.com  
 
-Steps for C code compilation :
-1. Download main.c
-2. Open the file in an IDE - Codeblocks or Visual Studio. (Further steps are put for Codeblocks)
-3. Click on "Build" in the menu bar and select "Build and Run" from the options.
-
-The executable (.exe) can be downloaded and directly run on a Windows machine.
+Steps for C++ code compilation in Linux :
+1. git clone https://github.com/Vaishnavjay/Assignment-5---Elgamal-in-Elliptic-Curve-Crypto-.git
+2. cd Assignment-5---Elgamal-in-Elliptic-Curve-Crypto-
+3. g++ -std=c++11 main.cpp bignum.cpp -o main
+4. ./main
 
 Sample program snapshots are shown below.
 
 Input:
-![image](https://user-images.githubusercontent.com/17180872/143911935-6401ba81-3b61-491e-81a5-61adb6940fec.png)
+Enter Prime number p.
+Prime number p entered below is : 8490596416367848650087159567646773591615403553294465336662715867127232816933488346501617931682626979 
+![image](https://user-images.githubusercontent.com/17180872/144440625-8f5db761-3684-4ffc-9084-7ce907cd5fcf.png)
 
 Encyption:
-![image](https://user-images.githubusercontent.com/17180872/143911592-c2290d1d-8b3c-4de2-9676-84d769fa70fc.png)
+Enter messagem m (<p)
+Message entered below is : 5818690534900769019932674408416202467481344214422737335535282470182162956584808142865991943953053217
+![image](https://user-images.githubusercontent.com/17180872/144442344-cc234694-71a3-46b3-8e4e-8eb9a968b749.png)
+
 
 Decryption:
-![image](https://user-images.githubusercontent.com/17180872/143911784-6178dee6-a430-4427-b447-34d4da8b8de3.png)
+Enter C1 and C2 obtained after encryption, one below another as shown in the snapshot below.
+![image](https://user-images.githubusercontent.com/17180872/144442485-51227cd4-1672-498e-baa4-e289ef18cd78.png)
