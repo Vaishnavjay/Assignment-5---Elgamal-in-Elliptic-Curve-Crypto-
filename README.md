@@ -4,7 +4,7 @@ Name - Vaishnav J
 Roll number - EE20M544  
 Email - vaishnavjrm@gmail.com  
 
-Steps for C++ code compilation in Linux :
+Steps for C++ code compilation and execution in Linux :
 1. git clone https://github.com/Vaishnavjay/Assignment-5---Elgamal-in-Elliptic-Curve-Crypto-.git
 2. cd Assignment-5---Elgamal-in-Elliptic-Curve-Crypto-
 3. g++ -std=c++11 main.cpp bignum.cpp -o main
